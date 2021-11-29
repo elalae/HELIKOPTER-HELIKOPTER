@@ -33,7 +33,7 @@ public class Helikopter{
 
 	public static void main(String[] args) throws InterruptedException {
 
-            
+            //Change argument with the path to your wav file
             playHELIKOPTER("C:\\Users\\Ela\\Desktop\\OOP\\Helikopter\\Music\\fazlija_2016_helikopter_6707199086266866431.wav");
 		while (true) {
 
